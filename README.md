@@ -1,5 +1,8 @@
 # Online-Railway-Ticket-Booking-System
 
+This project is done, entirely using system calls in C language and files to store the booking and user details.
+
+
 1. There are three files: client.c, server.c and util.h. 
 
 2. client.c serves as the client side, server.c serves as the server side ,for the ticket booking system and util.h contains all the functions required for the application to run.
