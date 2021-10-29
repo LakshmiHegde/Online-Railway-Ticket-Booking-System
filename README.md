@@ -71,3 +71,4 @@ When server interacts with database,  to server client requests, appropriate loc
                 
 		
 9. Once you choose to logout, you can exit the session.
+
